@@ -1,0 +1,67 @@
+[
+  {
+    "id": "skull-red-01",
+    "slug": "skull-red",
+    "title": "Sandriant Tête de Squelette - Rouge",
+    "price": 129.00,
+    "images": [
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=800&h=800&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&h=800&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?w=800&h=800&fit=crop&auto=format"
+    ],
+    "short": "Porte‑cigarette silicone, design squelette rouge flamboyant.",
+    "description": "Porte‑cigarette en silicone souple de haute qualité, design tête de squelette. Couleurs rouge, noir et blanc. Lavable, réutilisable et durable.",
+    "features": [
+      "Silicone médical anti-chaleur",
+      "Design tête de squelette unique",
+      "Lavable et réutilisable",
+      "Couleurs vibrantes rouge/noir/blanc",
+      "Compact et portable",
+      "Résistant aux chocs"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "skull-black-02",
+    "slug": "skull-black",
+    "title": "Sandriant Tête de Squelette - Noir",
+    "price": 129.00,
+    "images": [
+      "https://images.unsplash.com/photo-1508433957232-3107f5fd5995?w=800&h=800&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1614027164847-1b28cfe1df60?w=800&h=800&fit=crop&auto=format"
+    ],
+    "short": "Porte‑cigarette silicone, design squelette noir élégant.",
+    "description": "Version noire du célèbre Sandriant. Silicone premium, design mystérieux avec détails blancs et rouges.",
+    "features": [
+      "Silicone médical anti-chaleur",
+      "Design tête de squelette unique",
+      "Lavable et réutilisable",
+      "Finition noire mate élégante",
+      "Compact et portable",
+      "Résistant aux chocs"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "skull-white-03",
+    "slug": "skull-white",
+    "title": "Sandriant Tête de Squelette - Blanc",
+    "price": 129.00,
+    "images": [
+      "https://images.unsplash.com/photo-1603189343302-e603f7add05a?w=800&h=800&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1578632292335-df3abbb0d586?w=800&h=800&fit=crop&auto=format"
+    ],
+    "short": "Porte‑cigarette silicone, design squelette blanc spectral.",
+    "description": "Version blanche fantomatique. Silicone premium avec accents rouges et noirs pour un look spectral.",
+    "features": [
+      "Silicone médical anti-chaleur",
+      "Design tête de squelette unique",
+      "Lavable et réutilisable",
+      "Blanc éclatant avec détails colorés",
+      "Compact et portable",
+      "Résistant aux chocs"
+    ],
+    "inStock": true
+  }
+]
+
