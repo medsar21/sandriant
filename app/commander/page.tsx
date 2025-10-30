@@ -110,7 +110,7 @@ export default function CommanderPage() {
                 href="/"
                 className="block w-full border-2 border-white/20 hover:border-brand-red text-white px-8 py-4 rounded-xl font-semibold transition-all"
               >
-                Retour à l'accueil
+                Retour à l&apos;accueil
               </Link>
             </div>
           </div>

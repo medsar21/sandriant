@@ -107,7 +107,7 @@ export default function Home() {
               Prêt à commander ?
             </h2>
             <p className="text-white/90 text-lg mb-8 max-w-2xl mx-auto">
-              Rejoignez des milliers de clients satisfaits et obtenez votre Sandriant dès aujourd'hui.
+              Rejoignez des milliers de clients satisfaits et obtenez votre Sandriant dès aujourd&apos;hui.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
