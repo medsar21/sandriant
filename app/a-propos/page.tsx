@@ -36,13 +36,13 @@ export default function AboutPage() {
             <h2 className="text-3xl font-bold text-white mb-6">Notre Histoire</h2>
             <div className="space-y-4 text-white/70 leading-relaxed">
               <p>
-                Sandriant est né d'une passion pour le design unique et la qualité supérieure. 
+                Sandriant est né d&apos;une passion pour le design unique et la qualité supérieure. 
                 Nous croyons que chaque accessoire doit être à la fois fonctionnel et esthétique.
               </p>
               <p>
                 Notre porte-cigarette signature avec design tête de squelette représente 
-                l'audace, le style et l'individualité. Fabriqué en silicone médical premium, 
-                il combine durabilité et confort d'utilisation.
+                l&apos;audace, le style et l&apos;individualité. Fabriqué en silicone médical premium, 
+                il combine durabilité et confort d&apos;utilisation.
               </p>
               <p>
                 Chaque produit Sandriant est soigneusement conçu pour offrir une expérience 

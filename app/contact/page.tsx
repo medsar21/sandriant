@@ -52,7 +52,7 @@ export default function ContactPage() {
           </h1>
           <p className="text-white/70 text-lg max-w-2xl mx-auto">
             Une question ? Une suggestion ? Notre équipe est là pour vous aider. 
-            N'hésitez pas à nous contacter !
+            N&apos;hésitez pas à nous contacter !
           </p>
         </div>
 
@@ -115,13 +115,13 @@ export default function ContactPage() {
             {/* WhatsApp CTA */}
             <div className="bg-gradient-to-br from-green-600 to-green-700 rounded-2xl p-6">
               <h3 className="text-white font-bold text-lg mb-3">
-                Besoin d'une réponse rapide ?
+                Besoin d&apos;une réponse rapide ?
               </h3>
               <p className="text-white/90 text-sm mb-4">
                 Contactez-nous directement sur WhatsApp pour une assistance immédiate !
               </p>
               <a
-                href="https://wa.me/212656290522?text=Bonjour, j'ai une question sur Sandriant"
+                href="https://wa.me/212656290522?text=Bonjour, j&apos;ai une question sur Sandriant"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-center bg-white text-green-600 px-6 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors"

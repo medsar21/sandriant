@@ -68,10 +68,10 @@ export default function Home() {
               <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
                 Notre <span className="text-brand-red">Collection</span>
               </h2>
-              <p className="text-white/70 text-lg max-w-2xl mx-auto">
-                Découvrez nos porte-cigarettes en silicone avec design tête de squelette. 
-                Disponibles en plusieurs coloris pour s'adapter à votre style.
-              </p>
+            <p className="text-white/70 text-lg max-w-2xl mx-auto">
+              Découvrez nos porte-cigarettes en silicone avec design tête de squelette. 
+              Disponibles en plusieurs coloris pour s&apos;adapter à votre style.
+            </p>
             </div>
 
             <div className="grid md:grid-cols-3 gap-8 mb-12">
